@@ -24,7 +24,6 @@
     "test": "vitest test"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.20.6",
     "@ffflorian/jszip-cli": "^3.1.6",
     "@iconify/json": "^2.1.30",
     "@types/fs-extra": "^9.0.13",
@@ -50,7 +49,6 @@
     "unplugin-icons": "^0.14.1",
     "unplugin-vue-components": "^0.19.3",
     "vite": "^2.9.5",
-    "vite-plugin-windicss": "^1.8.4",
     "vitest": "^0.9.3",
     "vue": "^3.2.33",
     "vue-demi": "^0.12.5",
