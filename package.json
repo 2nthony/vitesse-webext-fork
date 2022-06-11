@@ -54,7 +54,6 @@
     "vite": "^2.9.5",
     "vitest": "^0.9.3",
     "vue": "^3.2.33",
-    "vue-demi": "^0.12.5",
     "web-ext": "^6.8.0",
     "webext-bridge": "^5.0.4",
     "webextension-polyfill": "^0.9.0"
